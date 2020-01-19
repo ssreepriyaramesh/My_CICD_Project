@@ -5,8 +5,8 @@ public class hello {
   // TODO Auto-generated method stub
 
   
-  for (int i = 1; i <=10; i++) {
-   System.out.println("Hello world...."+ i);
+  for (int i = 1; i <=25; i++) {
+   System.out.println("Hello Jenkins...."+ i);
   }
   
     
